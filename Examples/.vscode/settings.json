@@ -1,10 +1,4 @@
 {
-  "files.associations": {
-    "unistd.h": "c",
-    "stdlib.h": "c",
-    "pthread.h": "c",
-    "stdio.h": "c"
-  },
   "C_Cpp_Runner.cCompilerPath": "clang",
   "C_Cpp_Runner.cppCompilerPath": "clang++",
   "C_Cpp_Runner.debuggerPath": "lldb",
@@ -61,9 +55,5 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "vscode-as-git-mergetool.settingsAssistantOnStartup": false,
-  "cSpell.words": [
-    "Strln"
-  ]
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
